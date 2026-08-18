@@ -1,0 +1,62 @@
+measurement_id,test_time,voltage,current,temperature,resistance,frequency,result,fault
+1,2026-08-18 14:56:00,10.63,3.27,96.1,90.74,58.72,FAIL,Voltage out of specification; Overtemperature; Frequency out of specification
+2,2026-08-18 14:57:59,12.76,6.0,46.8,102.06,59.53,FAIL,Voltage out of specification; Overcurrent
+3,2026-08-18 14:57:59,12.61,3.85,55.61,110.84,61.42,FAIL,Voltage out of specification; Resistance out of specification; Frequency out of specification
+4,2026-08-18 14:57:59,12.8,6.43,51.67,109.77,61.01,FAIL,Voltage out of specification; Overcurrent; Frequency out of specification
+5,2026-08-18 14:57:59,12.67,6.46,80.48,103.35,61.76,FAIL,Voltage out of specification; Overcurrent; Frequency out of specification
+6,2026-08-18 14:57:59,12.36,1.69,54.02,110.02,61.67,FAIL,Resistance out of specification; Frequency out of specification
+7,2026-08-18 14:57:59,11.08,2.45,43.98,114.9,58.12,FAIL,Voltage out of specification; Resistance out of specification; Frequency out of specification
+8,2026-08-18 14:57:59,13.41,3.45,43.28,111.85,61.15,FAIL,Voltage out of specification; Resistance out of specification; Frequency out of specification
+9,2026-08-18 14:57:59,10.77,2.59,87.1,102.08,61.21,FAIL,Voltage out of specification; Overtemperature; Frequency out of specification
+10,2026-08-18 14:57:59,11.24,2.8,42.43,109.47,60.31,FAIL,Voltage out of specification
+11,2026-08-18 14:58:14,11.22,6.27,68.31,96.38,61.23,FAIL,Voltage out of specification; Overcurrent; Frequency out of specification
+12,2026-08-18 14:58:14,10.72,3.1,89.82,113.38,59.99,FAIL,Voltage out of specification; Overtemperature; Resistance out of specification
+13,2026-08-18 14:58:14,12.74,6.27,26.44,105.03,58.09,FAIL,Voltage out of specification; Overcurrent; Frequency out of specification
+14,2026-08-18 14:58:14,12.24,5.32,91.61,90.58,60.11,FAIL,Overcurrent; Overtemperature
+15,2026-08-18 14:58:14,11.87,1.42,35.54,110.51,60.26,FAIL,Resistance out of specification
+16,2026-08-18 14:58:14,10.79,2.73,93.26,108.79,58.82,FAIL,Voltage out of specification; Overtemperature; Frequency out of specification
+17,2026-08-18 14:58:14,13.44,5.77,45.52,92.87,60.4,FAIL,Voltage out of specification; Overcurrent
+18,2026-08-18 14:58:14,11.83,3.5,93.47,85.56,58.96,FAIL,Overtemperature; Resistance out of specification; Frequency out of specification
+19,2026-08-18 14:58:14,11.94,4.11,56.93,87.04,59.57,FAIL,Resistance out of specification
+20,2026-08-18 14:58:14,13.24,6.23,84.14,90.89,58.54,FAIL,Voltage out of specification; Overcurrent; Frequency out of specification
+21,2026-08-18 14:58:14,12.17,6.71,93.54,105.2,59.83,FAIL,Overcurrent; Overtemperature
+22,2026-08-18 14:58:14,12.04,2.41,77.93,85.48,61.91,FAIL,Resistance out of specification; Frequency out of specification
+23,2026-08-18 14:58:14,10.76,6.74,51.04,91.56,59.75,FAIL,Voltage out of specification; Overcurrent
+24,2026-08-18 14:58:14,11.31,5.08,30.17,110.99,60.45,FAIL,Voltage out of specification; Overcurrent; Resistance out of specification
+25,2026-08-18 14:58:14,13.15,3.36,29.5,102.27,58.43,FAIL,Voltage out of specification; Frequency out of specification
+26,2026-08-18 14:58:14,10.77,3.46,65.97,96.48,58.59,FAIL,Voltage out of specification; Frequency out of specification
+27,2026-08-18 14:58:14,12.65,6.18,41.77,103.17,58.7,FAIL,Voltage out of specification; Overcurrent; Frequency out of specification
+28,2026-08-18 14:58:14,11.06,4.24,90.56,92.25,59.8,FAIL,Voltage out of specification; Overtemperature
+29,2026-08-18 14:58:14,12.86,5.12,25.41,93.54,59.09,FAIL,Voltage out of specification; Overcurrent
+30,2026-08-18 14:58:15,13.22,5.15,83.8,90.02,59.33,FAIL,Voltage out of specification; Overcurrent
+31,2026-08-18 14:58:15,11.75,5.08,47.03,95.08,58.66,FAIL,Overcurrent; Frequency out of specification
+32,2026-08-18 14:58:15,12.57,4.52,91.51,86.45,60.47,FAIL,Voltage out of specification; Overtemperature; Resistance out of specification
+33,2026-08-18 14:58:15,11.15,3.43,99.04,90.37,59.26,FAIL,Voltage out of specification; Overtemperature
+34,2026-08-18 14:58:15,11.75,1.48,86.29,93.0,60.2,FAIL,Overtemperature
+35,2026-08-18 14:58:15,12.55,3.04,33.87,95.69,60.43,FAIL,Voltage out of specification
+36,2026-08-18 14:58:15,10.26,5.53,50.81,97.45,59.9,FAIL,Voltage out of specification; Overcurrent
+37,2026-08-18 14:58:15,10.58,2.99,29.87,90.84,61.04,FAIL,Voltage out of specification; Frequency out of specification
+38,2026-08-18 14:58:15,12.55,2.61,87.41,97.73,61.16,FAIL,Voltage out of specification; Overtemperature; Frequency out of specification
+39,2026-08-18 14:58:15,11.22,5.3,27.08,91.76,58.81,FAIL,Voltage out of specification; Overcurrent; Frequency out of specification
+40,2026-08-18 14:58:15,13.37,4.74,77.69,91.21,58.11,FAIL,Voltage out of specification; Frequency out of specification
+41,2026-08-18 14:58:15,11.45,4.21,32.42,91.75,59.57,FAIL,Voltage out of specification
+42,2026-08-18 14:58:15,10.28,3.61,74.56,109.47,59.55,FAIL,Voltage out of specification
+43,2026-08-18 14:58:15,11.01,2.57,32.73,111.04,58.46,FAIL,Voltage out of specification; Resistance out of specification; Frequency out of specification
+44,2026-08-18 14:58:15,10.46,5.35,77.02,107.55,60.0,FAIL,Voltage out of specification; Overcurrent
+45,2026-08-18 14:58:15,11.14,1.71,43.3,106.41,59.2,FAIL,Voltage out of specification
+46,2026-08-18 14:58:15,10.04,4.8,26.8,89.5,58.61,FAIL,Voltage out of specification; Resistance out of specification; Frequency out of specification
+47,2026-08-18 14:58:15,10.4,6.93,83.35,87.2,59.91,FAIL,Voltage out of specification; Overcurrent; Resistance out of specification
+48,2026-08-18 14:58:15,11.43,6.22,89.8,106.16,58.27,FAIL,Voltage out of specification; Overcurrent; Overtemperature; Frequency out of specification
+49,2026-08-18 14:58:15,12.27,6.25,48.24,107.48,60.5,FAIL,Overcurrent
+50,2026-08-18 14:58:15,12.95,4.48,43.31,105.28,59.16,FAIL,Voltage out of specification
+51,2026-08-18 14:58:15,13.38,2.04,39.2,98.36,61.17,FAIL,Voltage out of specification; Frequency out of specification
+52,2026-08-18 14:58:15,11.0,4.68,99.95,106.01,58.1,FAIL,Voltage out of specification; Overtemperature; Frequency out of specification
+53,2026-08-18 14:58:15,12.12,4.08,92.84,113.88,60.65,FAIL,Overtemperature; Resistance out of specification
+54,2026-08-18 14:58:15,11.6,4.88,63.36,101.28,61.13,FAIL,Frequency out of specification
+55,2026-08-18 14:58:15,12.0,2.76,91.25,108.49,59.68,FAIL,Overtemperature
+56,2026-08-18 14:58:15,12.92,5.5,76.09,93.07,61.81,FAIL,Voltage out of specification; Overcurrent; Frequency out of specification
+57,2026-08-18 14:58:15,10.08,2.57,58.72,85.93,60.51,FAIL,Voltage out of specification; Resistance out of specification
+58,2026-08-18 15:24:30,12.01,4.65,83.12,114.31,60.39,FAIL,Resistance out of specification
+59,2026-08-18 15:25:41,10.98,4.48,75.44,89.57,59.97,FAIL,Voltage out of specification; Resistance out of specification
+60,2026-08-18 15:25:41,12.39,6.28,42.56,109.57,60.94,FAIL,Overcurrent
+61,2026-08-18 15:25:41,10.21,3.8,98.07,88.17,60.1,FAIL,Voltage out of specification; Overtemperature; Resistance out of specification
